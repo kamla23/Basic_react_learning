@@ -1,0 +1,24 @@
+.header {
+  background: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.main {
+  display: flex;
+}
+.sidebar {
+  width: 200px;
+  background: lightgray;
+  padding: 10px;
+}
+.content {
+  flex: 1;
+  padding: 10px;
+}
+.footer {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}

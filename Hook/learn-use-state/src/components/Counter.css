@@ -1,0 +1,12 @@
+.counter-container{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 1.5rem;
+    border: 2px solid black;
+    max-width: 150px;
+    justify-content: center;
+    align-items: center;
+    border-radius:4px;
+}
